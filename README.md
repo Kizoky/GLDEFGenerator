@@ -8,7 +8,7 @@ This is a program to quickly generate GLDEF definition(s) for any Shaders, for a
 - Customizable via configuration file
 - Linux, and OSX Support
 
-Link to ZDoom forum post: https://forum.zdoom.org/viewtopic.php?f=103&t=67183
+Link to ZDoom forum post: https://forum.zdoom.org/viewtopic.php?f=232&t=73053
 
 ![Console](https://i.imgur.com/T4MNugW.png)
 
