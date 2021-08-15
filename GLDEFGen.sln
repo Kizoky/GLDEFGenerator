@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GLDEFGen", "SimSunGen\GLDEFGen.csproj", "{BCA7A228-9F61-4471-9964-AA473FFDE88D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GLDEFGen", "GLDEFGen\GLDEFGen.csproj", "{BCA7A228-9F61-4471-9964-AA473FFDE88D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4,18 +4,18 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PackageId>GLDEF Shader Definition Generator</PackageId>
-    <Version>1.2</Version>
+    <Version>1.0</Version>
     <Authors>Kizoky</Authors>
     <Product>GLDEF Shader Definition Generator</Product>
     <Description>Generates an output file for use with shaders</Description>
-    <ApplicationIcon>simsungen.ico</ApplicationIcon>
+    <ApplicationIcon>gldefgen.ico</ApplicationIcon>
     <Company />
     <AssemblyVersion>1.6.6.6</AssemblyVersion>
     <FileVersion>1.6.6.6</FileVersion>
-    <PackageProjectUrl>https://github.com/Kizoky/simsun_output_gen</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Kizoky/GLDEFGenerator</PackageProjectUrl>
     <Copyright>Kizoky</Copyright>
-    <PackageReleaseNotes>Lots of stuff</PackageReleaseNotes>
-    <RepositoryUrl>https://github.com/Kizoky/simsun_output_gen</RepositoryUrl>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/Kizoky/GLDEFGenerator</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
     <Win32Resource />
   </PropertyGroup>
