@@ -92,7 +92,7 @@ namespace GLDEFGen
                 {
                     sw.WriteLine("// Do not delete <path>, it must exist otherwise the program will fail!");
                     sw.WriteLine("material texture <path>");
-                    sw.WriteLine("// Add more shaders if desired below");
+                    sw.WriteLine("// Add more shaders below");
                     sw.WriteLine("shader \"shaders/SimSun.fp\"");
                 }
             }

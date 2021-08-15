@@ -10,6 +10,10 @@ This is a program to quickly generate GLDEF definition(s) for any Shaders, for a
 
 Link to ZDoom forum post: https://forum.zdoom.org/viewtopic.php?f=103&t=67183
 
-![Console](https://i.imgur.com/VrKsL91.png)
+![Console](https://i.imgur.com/T4MNugW.png)
 
-![Output](https://i.imgur.com/FsHlXBu.png)
+![Features](https://i.imgur.com/M99Do64.png)
+
+![Linux](https://i.imgur.com/j1pLckq.png)
+
+![Output](https://i.imgur.com/3XjhXQG.png)
